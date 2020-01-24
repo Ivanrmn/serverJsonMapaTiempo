@@ -1,0 +1,35 @@
+
+{
+    "cities": {
+      "Palma": {
+        "id": 2512989,
+        "weather": "clear",
+        "maxTemp": 23,
+        "minTemp": 9
+        },
+        "Soller": {
+        "id": 2510821,
+        "weather": "clouds",
+        "maxTemp": 17,
+        "minTemp": 4
+        },
+        "Inca": {
+        "id": 6533948,
+        "weather": "rain",
+        "maxTemp": 21,
+        "minTemp": 12
+        },
+        "Magaluf": {
+        "id": 6355015,
+        "weather": "clear",
+        "maxTemp": 24,
+        "minTemp": 14
+        },
+        "Manacor": {
+        "id": 6533954,
+        "weather": "rain",
+        "maxTemp": 15,
+        "minTemp": 2
+        }
+    }
+}
